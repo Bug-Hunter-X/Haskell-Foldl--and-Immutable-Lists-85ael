@@ -1,0 +1,2 @@
+# Haskell Foldl' and Immutable Lists
+This repository demonstrates a common error in Haskell programming related to immutability and the `foldl'` function.  The `bug.hs` file contains code that attempts to modify a list in place using `foldl'`, which leads to an error.  The `bugSolution.hs` file provides a corrected version using proper functional techniques.  This example highlights the importance of understanding Haskell's immutable data structures and how to work with them effectively. 
